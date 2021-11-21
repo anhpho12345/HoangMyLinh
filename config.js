@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "HoangMyLinh",
-    introTitle: 'Hêlo HML cutedangiu ',
+    introTitle: 'Hêlo HML cutedangiuu ',
     introDesc: `Mình muốn hỏi Linh câu này
 Linh phải trả lời thật lòng nha😘`,
     btnIntro: '^^Okii luôn^^',
