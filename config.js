@@ -1,17 +1,18 @@
 const CONFIG = {
-    titleWeb: "HoangMyLinhdangyeu",
-    introTitle: 'Hêlo HML cutedangiu',
-    introDesc:'Linh phải trả lời thật lòng nha😘',
-    btnIntro: '^^Okii luôn^^',
-    title: 'Linh có yêu mình hônggggg🥰',
-    desc: 'Nếu mà Linh thoát ra thì bạn là người yêu mình đó nha😁',
-    btnYes: 'Có yêu nhiều lắm❤️',
-    btnNo: 'Không được đâu, mơ à :33',
-    question: 'Vừa nãy là đùa thôi giờ mới thật này. Linh có yêu mình thật không❤️',
-    btnReply: 'Trả lời câu hỏi.',
-    reply: 'Có yêu lắm luôn ý. iuu nhấc lunn :333333',
-    mess: 'hihi. Mình biết mà 🥰. iuiu nhìu 😘😘',
-    messDesc: 'Vậy quay ra bật chế độ hẹn hò với mình nhá😘.',
-    btnAccept: 'Okiiiii iuu <3',
-    messLink: 'https://www.facebook.com/lun.linh.9693001"
+    titleWeb: "LưuHuyềnTrang",
+    introTitle: 'hillu LHT dangiucute',
+    introDesc: `Có câu này muốn hỏi Trang.
+    Nhưng phải trải lời thật lòng nha`,
+    btnIntro: '^^Okiii^^',
+    title: 'Trang còn yêu mình hôngggg 🥰',
+    desc: 'Nếu thoát ra là còn yêu mình lắm đó nha ; ',
+    btnYes: 'Hihi có vẫn còn nha <33',
+    btnNo: 'Không nha, mơ à :3',
+    question: 'Đùa thôi giờ thật này giờ trải lời đi cón yêu mình hôngg <3',
+    btnReply: 'Gửi cho bạn.',
+    reply: 'Có. Mà vẫn còn yêu lắm <33333333',
+    mess: 'Hí Hí mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    messDesc: 'Giờ quay ra để chế đọ hẹn hò luôn nhá.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.facebook.com/tetjluta6725"
 }
